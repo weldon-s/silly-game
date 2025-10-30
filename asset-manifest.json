@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/silly-game/static/css/main.f855e6bc.css",
+    "main.js": "/silly-game/static/js/main.8590cc4d.js",
+    "static/js/453.042f6385.chunk.js": "/silly-game/static/js/453.042f6385.chunk.js",
+    "static/media/logo.svg": "/silly-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/silly-game/index.html",
+    "main.f855e6bc.css.map": "/silly-game/static/css/main.f855e6bc.css.map",
+    "main.8590cc4d.js.map": "/silly-game/static/js/main.8590cc4d.js.map",
+    "453.042f6385.chunk.js.map": "/silly-game/static/js/453.042f6385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8590cc4d.js"
+  ]
+}
