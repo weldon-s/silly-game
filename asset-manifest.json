@@ -1,16 +1,28 @@
 {
   "files": {
     "main.css": "/silly-game/static/css/main.70b7e204.css",
-    "main.js": "/silly-game/static/js/main.0dbc8d35.js",
+    "main.js": "/silly-game/static/js/main.4fccd65c.js",
     "static/js/453.042f6385.chunk.js": "/silly-game/static/js/453.042f6385.chunk.js",
+    "static/media/pad-thai.PNG": "/silly-game/static/media/pad-thai.9eaaa08f31e13b7465b7.PNG",
+    "static/media/clams.PNG": "/silly-game/static/media/clams.857510a4881ce5769456.PNG",
+    "static/media/dino.PNG": "/silly-game/static/media/dino.7878095b068319fea08b.PNG",
+    "static/media/stefan.PNG": "/silly-game/static/media/stefan.d72514c7f2f7e4db76ec.PNG",
+    "static/media/doug.PNG": "/silly-game/static/media/doug.ddd8b1f49dc3b700aa5c.PNG",
+    "static/media/cookie.PNG": "/silly-game/static/media/cookie.6dc715679f210ccefcab.PNG",
+    "static/media/poppy.PNG": "/silly-game/static/media/poppy.46029ce0eccaf6e00b6b.PNG",
+    "static/media/oreo.PNG": "/silly-game/static/media/oreo.3348bea8471d087e5572.PNG",
+    "static/media/trash.PNG": "/silly-game/static/media/trash.77fb559f53dfeae3ec5b.PNG",
+    "static/media/weldon.PNG": "/silly-game/static/media/weldon.e79d953114721cb86b5b.PNG",
+    "static/media/strawberries.PNG": "/silly-game/static/media/strawberries.a98a1ed2edcd852227d6.PNG",
+    "static/media/phoebe.JPG": "/silly-game/static/media/phoebe.110be99c1dd0bf937dac.JPG",
     "static/media/munch.mp3": "/silly-game/static/media/munch.38069c3259f7a1a3d4b4.mp3",
     "index.html": "/silly-game/index.html",
     "main.70b7e204.css.map": "/silly-game/static/css/main.70b7e204.css.map",
-    "main.0dbc8d35.js.map": "/silly-game/static/js/main.0dbc8d35.js.map",
+    "main.4fccd65c.js.map": "/silly-game/static/js/main.4fccd65c.js.map",
     "453.042f6385.chunk.js.map": "/silly-game/static/js/453.042f6385.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70b7e204.css",
-    "static/js/main.0dbc8d35.js"
+    "static/js/main.4fccd65c.js"
   ]
 }
